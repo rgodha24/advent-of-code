@@ -1,0 +1,6 @@
+[submodule "2022-rust"]
+	path = 2022-rust
+	url = https://github.com/rgodha24/aoc-rust-2022
+[submodule "2023-rust"]
+	path = 2023-rust
+	url = https://github.com/rgodha24/aoc-2023
